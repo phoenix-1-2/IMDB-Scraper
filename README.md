@@ -2,6 +2,6 @@
 A simply IMDb scrapper written in Python.
 
 ## Dependencies
-python
-Beautiful Soup
+Python,
+Beautiful Soup,
 Selenium
